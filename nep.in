@@ -1,0 +1,16 @@
+version      4
+type 2 Ti Mo
+cutoff        8 4     #
+n_max         8 8     # default
+basis_size    12 12   # default
+zbl 2.5
+l_max         4 2 0    # default
+neuron        70      # default
+lambda_1 0.05
+lambda_2 0.05
+lambda_e      1.0     # default
+lambda_f      1.0     # default
+lambda_v      0.1     # default
+batch         3000    # default
+population    70      # default
+generation    1000000  # default
